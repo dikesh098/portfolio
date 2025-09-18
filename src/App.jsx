@@ -18,6 +18,11 @@ export default function App() {
     { title: "Phishing Detection System", desc: "ML model to detect phishing websites.", link: "#" },
     { title: "Adaptive Game AI", desc: "Unity adaptive navigation for game agents.", link: "#" },
     { title: "Vulnerability Scanner (Demo)", desc: "Python scanner for common vulnerabilities.", link: "#" },
+    { title: "E-Sakha (Client Project)", desc: "Responsive React.js website with SEO optimization.", link: "https://www.esakha.in" },
+    { title: "Secure Chat App", desc: "React Native chat app with end-to-end encryption.", link: "#" },
+    { title: "Phishing Detection System", desc: "ML model to detect phishing websites.", link: "#" },
+    { title: "Adaptive Game AI", desc: "Unity adaptive navigation for game agents.", link: "#" },
+    { title: "Vulnerability Scanner (Demo)", desc: "Python scanner for common vulnerabilities.", link: "#" },
   ];
   const experiences = [
     { title: "Application Developer Intern - NY Online Solutions", period: "Jun 2023 – Dec 2023", details: ["Built React Native apps with Firebase backend.","Improved cross-platform functionality."] },
