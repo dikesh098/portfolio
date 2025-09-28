@@ -7,7 +7,7 @@ export default function App() {
   const contact = {
     email: "dikeshgautam09@gmail.com",
     phone: "+91-8010948092",
-    resume: "/resume.pdf",
+    resume: "/DIKESH_CV.pdf",
     github: "https://github.com/dikesh098",
     linkedin: "https://linkedin.com/in/dikesh-gautam-5a3740227/",
   };
