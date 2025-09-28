@@ -103,7 +103,7 @@ export default function App() {
             <textarea name="msg" rows={5} placeholder="Message" className="p-3 rounded bg-white/10 border" />
             <div className="flex gap-3">
               <button className="px-4 py-2 bg-cyan-500 rounded text-black">Send</button>
-              <a href="/resume.pdf" className="px-4 py-2 border rounded">Download Resume</a>
+              <a href="/DIKESH_CV.pdf" className="px-4 py-2 border rounded">Download Resume</a>
             </div>
           </form>
         </section>
