@@ -892,7 +892,7 @@ export default function Portfolio() {
             <div className="tl-item">
               <div className="tl-dot"/>
               <div className="tl-date">Jun 2023 – Dec 2023</div>
-              <div className="tl-company">NY Online Solutions</div>
+              <div className="tl-company">NY All in One Solutions and Services ltd.</div>
               <div className="tl-role">Web Development Intern · Nagpur</div>
               <ul className="tl-points">
                 <li>Developed 5+ responsive UI components using React, improving page load performance.</li>
