@@ -854,7 +854,11 @@ export default function Portfolio() {
               <div className="profile-box">
                 <div className="cb tl"/><div className="cb tr"/>
                 <div className="cb bl"/><div className="cb br"/>
-                <div className="profile-glyph">DG</div>
+                <img 
+  src="/profile.jpg" 
+  alt="Dikesh Gautam" 
+  className="profile-img"
+/>
                 <div style={{fontSize:11,letterSpacing:3,textTransform:"uppercase",color:"var(--muted)"}}>Software Developer</div>
                 <div style={{fontSize:11,letterSpacing:3,textTransform:"uppercase",color:"var(--accent)"}}>AI / ML Engineer</div>
                 <div style={{fontSize:10,color:"var(--muted)",marginTop:8,letterSpacing:1}}>Mumbai → Hyderabad</div>
