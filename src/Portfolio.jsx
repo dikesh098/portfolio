@@ -841,7 +841,7 @@ export default function Portfolio() {
               </div>
 
               <div className="stats-grid reveal">
-                {[{num:"2+",lbl:"Years Exp"},{num:"8+",lbl:"Projects"},{num:"6+",lbl:"Certs"},{num:"7.04",lbl:"CGPA/10"}].map((s,i)=>(
+                {[{num:"Fresher",lbl:"Years Exp"},{num:"8+",lbl:"Projects"},{num:"6+",lbl:"Certs"},{num:"7.04",lbl:"CGPA/10"}].map((s,i)=>(
                   <div key={i} className="stat-card">
                     <div className="stat-num">{s.num}</div>
                     <div className="stat-lbl">{s.lbl}</div>
