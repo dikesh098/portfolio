@@ -663,7 +663,7 @@ function PC({ p, delay=0, big=false }) {
       <div className="pc-name">{p.name}</div>
       <div className="pc-desc">{p.desc}</div>
       <div className="pc-techs">{p.techs.map((t,i)=><span key={i} className="pc-tech">{t}</span>)}</div>
-      {p.link && <a href={`https://${p.link}`} target="_blank" rel="noreferrer" className="pc-link">Visit Live →</a>}
+      {p.link && <a href={`https://www.esakha.in`} target="_blank" rel="noreferrer" className="www.esakha.in">Visit Live →</a>}
     </div>
   );
 }
