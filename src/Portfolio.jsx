@@ -855,7 +855,7 @@ export default function Portfolio() {
                 <div className="cb tl"/><div className="cb tr"/>
                 <div className="cb bl"/><div className="cb br"/>
                 <img 
-  src="/profile.jpg" 
+  src="/profile1.jpg" 
   alt="Dikesh Gautam" 
   className="profile-img"
 />
