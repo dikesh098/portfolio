@@ -854,6 +854,7 @@ export default function Portfolio() {
               <div className="profile-box">
                 <div className="cb tl"/><div className="cb tr"/>
                 <div className="cb bl"/><div className="cb br"/>
+                <div className="profile-glyph">DG</div>
                 <img 
   src="/profile1.jpg" 
   alt="Dikesh Gautam" 
