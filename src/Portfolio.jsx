@@ -996,7 +996,7 @@ export default function Portfolio() {
 
         <footer>
           <span style={{fontFamily:"'Fraunces',serif",fontStyle:"italic",color:"var(--text)"}}>Dikesh Gautam</span>
-          <span>Designed &amp; Developed with ♥ · 2025</span>
+          <span>Designed &amp; Developed by Dikesh · 2025</span>
           <span style={{color:"var(--accent)"}}>Hyderabad, India</span>
         </footer>
 
